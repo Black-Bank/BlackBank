@@ -1,0 +1,21 @@
+.grafico{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+  height:180px;
+  margin:auto; 
+  font-family:Arial;
+  
+}
+
+.graficoImg img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:60%;
+  height:auto;
+  margin:auto;
+  
+
+}

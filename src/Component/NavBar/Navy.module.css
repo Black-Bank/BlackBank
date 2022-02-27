@@ -1,0 +1,23 @@
+.logo{
+    min-width: 2%;
+    min-height: 20px;
+    max-height: 40px;
+    margin: 0 20px;
+    flex-direction: column;
+    border-radius:50%;
+    
+}
+
+.Container{
+    display: flex;
+    margin-left: 0px;
+    align-items: left;
+}
+.Ola{
+    color:red
+}
+
+.navTitle{
+    text-align: center;
+    font-color: red;
+}

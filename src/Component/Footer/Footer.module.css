@@ -1,0 +1,45 @@
+.Footer {
+    background-color: #eaeaea;
+    height: 1.5cm;
+    justify-content: center;
+    position: relative;
+ 
+}
+
+.links {
+    margin-left: 2cm;
+}
+
+.links img:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.Footer2 {
+    background-color: #2d2a26;
+    height: 1cm;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.text {
+    color: #ffc72c;
+    font-family: Arial;
+    align-items: center;
+    font-size: x-small;
+    justify-content: center;
+}
+.Btc{
+      -webkit-transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    transform: scale(2.5);
+    display: inline-block;
+    position: relative;
+    margin-bottom:50%;
+}
+.AllFooter{
+    margin-top: 100%;
+}
