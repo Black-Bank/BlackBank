@@ -16,7 +16,7 @@ export default function Footer() {
       >
         <Nav defaultActiveKey="/home">
           <div className={styles.Btc}>
-            {" "}
+         
             <RiBitCoinFill />
           </div>
         </Nav>
