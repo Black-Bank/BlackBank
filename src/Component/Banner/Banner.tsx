@@ -8,6 +8,15 @@ function Banner(){
             <img src={logo} alt="First img" />
           </a>
         </div>
+          <div className={styles.coins}>
+            <p><div> <img src="Dol.png" alt="" /> <input className={styles.DollBt} type="button" value="U$Dolar"/></div></p>
+            <p><div><input className={styles.BitBt} type="button" value="B$Bitcoin"/></div></p>
+            <p><div><input className={styles.RealBt} type="button" value="R$REAL" /></div></p>  
+            
+            
+              
+              
+          </div>
       </div>
     );
 }
